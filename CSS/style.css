@@ -1,0 +1,148 @@
+/*header || style*/
+
+nav {
+    padding-top: 69px;
+    height: 154px;
+}
+
+.logo {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 44px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 8px;
+    color: #274C5B;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto';
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 700;
+    Line-height: 23px;
+    color: #274C5B;
+}
+
+/*main style*/
+.container-bg {
+    background-color: #F9F8F8;
+    height: 800px;
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+    height: 624px;
+}
+
+.text-2 {
+    font-family: 'Yellowtail', cursive;
+    color: #7EB693;
+    font-size: 36px;
+    font-weight: 400;
+    padding-left: 113px;
+    padding-top: 25px;
+}
+
+.text-3 {
+    font-family: 'Roboto', sans-serif;
+    color: #274C5B;
+    font-size: 50px;
+    font-weight: 800;
+    padding-left: 117px;
+    padding-top: 25px;
+}
+
+.text-4 {
+    font-family: 'Open Sans', sans-serif;
+    color: #525C60;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 123px;
+    padding-top: 25px;
+}
+
+.content-2 {
+    background-color: #ECECEC;
+    width: 345px;
+    height: 78px;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 125px;
+}
+
+.icon {
+    padding-top: -22px;
+    padding-left: 37px;
+}
+
+.text-5 {
+    font-family: 'Roboto', sans-serif;
+    color: #274C5B;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 15px;
+}
+
+.text-6 {
+    font-family: 'Open Sans', sans-serif;
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 15px;
+    margin-top: 222px;
+    margin-left: -210px;
+    display: inline-block;
+}
+
+.content-3 {
+    background-color: #ECECEC;
+    width: 345px;
+    height: 78px;
+    display: flex;
+    align-items: center;
+    margin-top: 125px;
+    margin-left: 125px;
+}
+
+.container {
+    text-align: center;
+    background-color: #F9F8F8;
+
+}
+
+.container-1 {
+    display: inline-block;
+    width: 210px;
+    height: 280px;
+    background-color: #FFFFFF;
+    margin: 10px;
+}
+
+.text-7 {
+    font-family: 'Roboto', sans-serif;
+    color: #274C5B;
+    font-size: 25px;
+    font-weight: 800;
+    padding-top: 30px;
+
+}
+
+.text-8 {
+    font-family: 'Open Sans', sans-serif;
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 50px;
+    line-height: 27px;
+}
